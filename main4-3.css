@@ -1,0 +1,29 @@
+
+.container {
+		font-family: monospace;
+			max-width: 600px;
+				margin: 0 auto;
+					height: 300px;
+						background-color: cyan;
+							text-align: left;
+								margin-top: 100px;
+									font-size: 16px;
+										padding: 2%;
+											border-radius: 8%;
+												border: 3px solid orange;
+											}
+
+											input {
+													margin-left: 40%;
+												}
+
+												input[type="text"] {
+														margin-left: -1%;
+															padding: 1%;
+																border: none;
+																	border-bottom: 2px solid black;
+																		background-color: cyan;
+																	}
+																	input[type="text"]:focus {
+																			outline:none;
+																		}
